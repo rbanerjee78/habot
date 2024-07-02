@@ -41,7 +41,7 @@ const HeroSection = () => {
                 className="absolute left-3 top-1/2 transform -translate-y-1/2 text-orange-500"
               />
             </div>
-            <button className="w-full sm:w-auto p-3 bg-green-500 text-white rounded-md hover:bg-green-600">
+            <button className="w-full sm:w-auto p-3 bg-green-500 text-white rounded-md hover:bg-green-600 !ml-0 xl:!ml-4 md:!ml-4 ">
               Search
             </button>
           </div>
