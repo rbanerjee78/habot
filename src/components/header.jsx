@@ -65,7 +65,7 @@ const Header = () => {
                     </div>
                   )}
                 </div>
-                <a href="#login" className="text-green-500 border border-green-500 hover:bg-green-500 hover:text-white px-4 py-2 rounded">
+                <a href="#login" className="text-green-500 text-center border border-green-500 hover:bg-green-500 hover:text-white px-4 py-2 rounded">
                   Login / Sign Up
                 </a>
               </div>
